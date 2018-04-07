@@ -13,9 +13,9 @@ Kanboard je bezplatný a otevřený zdroj pro správu projektů společnosti Kan
 .. toctree::
     :maxdepth: 1
 
-    introduction
-    users
-    boards
-    projects
-    tasks
-    settings
+    user_guide/introduction
+    user_guide/users
+    user_guide/boards
+    user_guide/projects
+    user_guide/tasks
+    user_guide/settings
