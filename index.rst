@@ -5,7 +5,7 @@ Kanboard je bezplatný a otevřený zdroj pro správu projektů společnosti Kan
 
 - Oficiální webové stránky: https://kanboard.org
 - Sledování chyb: https://github.com/kanboard/kanboard/issues
-- Fóra: https://github.com/kanboard/forum/issues
+- Fóra: https://kanboard.discourse.group/
 - RSS zdroje: https://github.com/kanboard/kanboard/releases.atom
 - Mastodon: https://mastodon.social/@kanboard
 - IRC: #kanboard na Freenode
