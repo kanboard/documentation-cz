@@ -8,7 +8,6 @@ Kanboard je bezplatný a otevřený zdroj pro správu projektů společnosti Kan
 - Fóra: https://kanboard.discourse.group/
 - RSS zdroje: https://github.com/kanboard/kanboard/releases.atom
 - Mastodon: https://mastodon.social/@kanboard
-- IRC: #kanboard na Freenode
 
 .. toctree::
     :maxdepth: 1
